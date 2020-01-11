@@ -1,2 +1,2 @@
 # CaesarCipher.Python
-The previous Caesar Cipher that is written in C is now implemented in Python!
+This another one of my program wrote for CS50x Pset6 on edX in Python. What it does is outputting enciphered message from user's input of a message and a numerical key. According to Caesar’s algorithm, this program should automatically encrypts user's input message by “rotating” each letter by user's input of key. Sadly, this is "still" restricted to alphabetical messages only ;-;. However, the effciency and the succinctness of the program has been improved due to the very lovely syntax of Python.
